@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5270-5.0YM5_TR
+D Cap Negative Low-Dropout Regulator, sot-23-5
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5270.pdf
+$ENDCMP
+#
+#End Doc Library
